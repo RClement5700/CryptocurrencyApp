@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CryptocurrencyApp</string>
+    <string name="coin_active_label">active</string>
+    <string name="coin_inactive_label">inactive</string>
+    <string name="team_header_label">Team Members</string>
+    <string name="tags_header_label">Tags</string>
+    <string name="click_here_to_reload_label">Click here to reload</string>
+    <string name="failed_to_load_coin_label">Failed to load Coin\'s details</string>
+    <string name="failed_to_load_coin_list_label">Failed to load cryptocurrency data</string>
+</resources>
